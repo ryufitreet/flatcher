@@ -1,0 +1,31 @@
+{
+  "name": "vueboilerplate",
+  "version": "1.0.0",
+  "description": "Binom Frontend Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^0.28.7",
+    "vue": "^2.5.1",
+    "vue-bulma": "0.0.35",
+    "vue-loader": "^13.3.0",
+    "vue-template-compiler": "^2.5.1",
+    "vuex": "^3.0.0",
+    "webpack": "^3.7.1"
+  },
+  "dependencies": {
+    "brace": "^0.10.0",
+    "bulma": "^0.6.0",
+    "vue-bulma-brace": "^0.1.0"
+  }
+}

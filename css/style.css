@@ -1,0 +1,25 @@
+/* rewrite bulma */
+body{
+	font-size: 0.8rem;
+}
+.input{
+	font-size: 0.85rem;
+	height: 1.75em;
+}
+.button {
+	font-size: .8rem;
+	line-height: .8rem;
+	height: 1.50rem;
+	padding-right: .5em;
+	padding-left: .5em;
+}
+.button i {
+	font-size: .85rem;
+}
+.textarea{
+	padding:0px;
+	font-size: 13px;
+}
+.select:not(.is-multiple){
+	height: 1.6em;
+}
